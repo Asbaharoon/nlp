@@ -1,0 +1,30 @@
+-
+Input sentence:	He is afraid of snakes.
+Decoded sentence:	他害怕蛇。<S>
+-
+Input sentence:	I miss you so much.
+Decoded sentence:	好想見到你<S>
+-
+Input sentence:	We're going by train.
+Decoded sentence:	我们要乘火车去。<S>
+-
+Input sentence:	The sky is clear.
+Decoded sentence:	天空很晴朗。<S>
+-
+Input sentence:	Wearing a suit, he stood out.
+Decoded sentence:	他穿著西裝站了出來。<S>
+-
+Input sentence:	She made a serious mistake.
+Decoded sentence:	她犯了一個嚴重的錯誤。<S>
+-
+Input sentence:	Have you eaten dinner?
+Decoded sentence:	你吃晚飯了嗎？<S>
+-
+Input sentence:	What do you want to be?
+Decoded sentence:	你想成为什么？<S>
+-
+Input sentence:	Tom is going to help us.
+Decoded sentence:	汤姆要帮助我们。<S>
+-
+Input sentence:	He's lazy.
+Decoded sentence:	他很懒。<S>
